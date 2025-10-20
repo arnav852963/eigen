@@ -1,0 +1,16 @@
+{
+  "name": "eigen",
+  "version": "1.0.0",
+  "description": "intern project",
+  "keywords": [
+    "hey",
+    "there"
+  ],
+  "license": "ISC",
+  "author": "arnav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  }
+}
